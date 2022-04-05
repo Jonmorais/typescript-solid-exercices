@@ -1,0 +1,1 @@
+## Training typescript and SOLID principles
